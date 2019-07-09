@@ -1,5 +1,5 @@
 
-var playlist = {artis:'song'}
-var 
+var playlist = {artistName:'songTitle'}
+
 
 
